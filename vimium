@@ -1,0 +1,7 @@
+# Insert your preferred key mappings here.
+map u scrollPageDown
+map i scrollPageUp
+map U scrollPageDown
+map I scrollPageUp
+map <c-u> scrollPageDown
+map <c-i> scrollPageUp
